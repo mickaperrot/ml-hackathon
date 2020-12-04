@@ -21,6 +21,10 @@ On the API page, click **Enable** to enable the API.
 
 ## Create your AI Platform Notebook
 ### Step 1:
+Go to the AI Platform Notebook page.  
+Click [this link](https://console.cloud.google.com/ai-platform/notebooks/) or use the search bar to access the **AI Platform Notebook** page.
+![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-AccessNotebook.png)
+### Step 1:
 Create a new AI Platform Notebook instance.  
 From the Notebook page, click **New Instance** to create your AI Platform Notebook instance.  
 ![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-CreateNotebook.png)
