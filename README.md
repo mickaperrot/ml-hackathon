@@ -31,7 +31,7 @@ For example, you can change your instance region to **europe-west1 (Belgium)** t
 ### Step 4:
 Connect to your Notebook.
 Once your instance is created, click **Open JupyterLab** to access your Notebook.
-![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-AccessNotebook.png)
+![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-OpenNotebook.png)
 
 ## Import this notebook
 ### Step 1:
@@ -39,6 +39,6 @@ From your notebook, go to the **Git Menu**.
 ### Step 2:
 Select **Clone a Repository**.  
 ### Step 3:
-Enter the notebook URL:  ``https://github.com/mickaperrot/ml-hackathon.git``
+Enter the notebook URL:  ``https://github.com/mickaperrot/ml-hackathon.git``  
 Click **Clone**.  
 ![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-CloneNotebook.png)
