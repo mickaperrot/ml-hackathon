@@ -24,19 +24,19 @@ On the API page, click **Enable** to enable the API.
 Go to the AI Platform Notebook page.  
 Click [this link](https://console.cloud.google.com/ai-platform/notebooks/) or use the search bar to access the **AI Platform Notebook** page.
 ![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-AccessNotebook.png)
-### Step 1:
+### Step 2:
 Create a new AI Platform Notebook instance.  
 From the Notebook page, click **New Instance** to create your AI Platform Notebook instance.  
 ![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-CreateNotebook.png)
-### Step 2:
+### Step 3:
 Select the instance template you want to use.
 This notebook has been designed with the template **TensorFlow Enterprise 2.3** as the instance type and **Without GPUs**.  
 ![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-SelectInstanceType.png)
-### Step 3:
+### Step 4:
 Customize your instance if needed.
 For example, you can change your instance region to **europe-west1 (Belgium)** to reduce latency, when ready click **Create**.  
 ![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-CreateInstance.png)
-### Step 4:
+### Step 5:
 Connect to your Notebook.
 Once your instance is created, click **Open JupyterLab** to access your Notebook.
 ![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-OpenNotebook.png)
