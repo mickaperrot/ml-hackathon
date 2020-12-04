@@ -42,6 +42,7 @@ Once your instance is created, click **Open JupyterLab** to access your Notebook
 ![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-OpenNotebook.png)
 
 ## Import this notebook
+![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-CloneNotebook.png)
 ### Step 1:
 From your notebook, go to the **Git** menu.  
 ### Step 2:
@@ -49,4 +50,3 @@ Select **Clone a Repository**.
 ### Step 3:
 Enter the notebook URL:  ``https://github.com/mickaperrot/ml-hackathon.git``  
 Click **Clone**.  
-![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-CloneNotebook.png)
