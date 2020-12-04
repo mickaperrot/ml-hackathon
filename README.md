@@ -5,7 +5,7 @@ This notebook is a sample [Google Cloud AI Platform Notebook](https://cloud.goog
 
 ## Prerequisites: enable Google Cloud APIs
 ### Step 1:
-Make sure your are using the correct Google Cloud project.
+Make sure your are using the correct Google Cloud project.  
 You can check which project you are currently using from the top left of the Google Cloud console:
 ![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-CheckProject.png)
 ### Step 2:
