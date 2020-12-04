@@ -5,11 +5,15 @@ This notebook is a sample [Google Cloud AI Platform Notebook](https://cloud.goog
 
 ## Prerequisites: enable Google Cloud APIs
 ### Step 1:
+Make sure your are using the correct Google Cloud project.
+You can check which project you are currently using from the top left of the Google Cloud console:
+![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-CheckProject.png)
+### Step 2:
 Enable the Notebooks API.  
 Click [this link](https://console.cloud.google.com/apis/library/notebooks.googleapis.com) or use the search bar to access the **Notebooks API** page.  
 On the API page, click **Enable** to enable the API.  
 ![](https://storage.googleapis.com/mickael_public_bucket/inetum-ml-hackathon/Screenshot-EnableNotebooksAPI.png)
-### Step 2:
+### Step 3:
 Enable the AI Platform Training & Prediction API.  
 Click [this link](https://console.cloud.google.com/marketplace/product/google/ml.googleapis.com) or use the search bar to access the **AI Platform Training & Prediction API** page.  
 On the API page, click **Enable** to enable the API.  
